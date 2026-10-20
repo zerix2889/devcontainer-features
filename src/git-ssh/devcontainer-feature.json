@@ -1,0 +1,7 @@
+
+{
+  "id": "git-ssh",
+  "version": "1.0.0",
+  "name": "Git and OpenSSH Client",
+  "description": "Installs Git and SSH only when missing, including support for archived Debian releases."
+}
